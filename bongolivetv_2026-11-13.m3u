@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel-i" tvg-name="Channel I" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/189.jpg" group-title="BD Channel",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/190.jpg" group-title="BD Channel",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="Rtv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/191.jpg" group-title="BD Channel",Rtv
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-id="somoy-tv-hd" tvg-name="SOMOY TV HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/192.webp" group-title="BD Channel",SOMOY TV HD
+http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="somoy-tv-hd" tvg-name="SOMOY TV HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/192.webp" group-title="BD Channel",SOMOY TV HD
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/193.png" group-title="BD Channel",Banglavision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1 tvg-id="ekattor-tv" tvg-name="Ekattor TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/195.png" group-title="BD Channel",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="atn-bangla" tvg-name="ATN Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/laYB9wJ1gU4diP1ruabNQOSRuIepWiLqBEViBjmj.png" group-title="BD Channel",ATN Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="atn-bangla" tvg-name="ATN Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/laYB9wJ1gU4diP1ruabNQOSRuIepWiLqBEViBjmj.png" group-title="BD Channel",ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 tvg-id="news-24" tvg-name="News 24" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/197.jpg" group-title="BD Channel",News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1 tvg-id="channel-24" tvg-name="Channel 24" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/198.png" group-title="BD Channel",Channel 24
+https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="channel-24" tvg-name="Channel 24" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/198.png" group-title="BD Channel",Channel 24
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-id="dbc-news" tvg-name="DBC NEWS" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/199.webp" group-title="BD Channel",DBC NEWS
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-id="independent-tv" tvg-name="INDEPENDENT TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/200.jpg" group-title="BD Channel",INDEPENDENT TV
+https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="independent-tv" tvg-name="INDEPENDENT TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/200.jpg" group-title="BD Channel",INDEPENDENT TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+#EXTINF:-1 tvg-id="channel-1" tvg-name="Channel 1" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/210.jpg" group-title="BD Channel",Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="channel-1" tvg-name="Channel 1" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/210.jpg" group-title="BD Channel",Channel 1
+https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8?
+#EXTINF:-1 tvg-id="jamuna-tv" tvg-name="JAMUNA TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/201.jpg" group-title="BD Channel",JAMUNA TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 tvg-id="boishakhi-tv" tvg-name="Boishakhi TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/203.jpg" group-title="BD Channel",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1 tvg-id="des-tv" tvg-name="দেশ tv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/204.png" group-title="BD Channel",দেশ tv
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/205.jpg" group-title="BD Channel",GTV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="my-tv" tvg-name="My TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/218.jpg" group-title="BD Channel",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1 tvg-id="bijy-tivi" tvg-name="বিজয় টিভি" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/206.jpg" group-title="BD Channel",বিজয় টিভি
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
+#EXTINF:-1 tvg-id="masranga-tv" tvg-name="Masranga TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/207.png" group-title="BD Channel",Masranga TV
+http://116.204.149.16/maasranga/index.m3u8
+#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN NEWS" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/202.jpg" group-title="BD Channel",ATN NEWS
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-id="sa-tv" tvg-name="SA TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/211.webp" group-title="BD Channel",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1 tvg-id="channel-9" tvg-name="Channel 9" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/212.jpg" group-title="BD Channel",Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/213.jpg" group-title="BD Channel",Ekushey TV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1 tvg-id="deepto-tv" tvg-name="Deepto TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/214.jpg" group-title="BD Channel",Deepto TV
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/tracks-v1a1/mono.ts.m3u8?e=1784102563&token=89a6bfdee0a7ecb358080b2c44f18b41&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+#EXTINF:-1 tvg-id="ekhn-tivi" tvg-name="এখন টিভি" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/223.jpg" group-title="BD Channel",এখন টিভি
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-id="asian-tv" tvg-name="Asian TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/229.jpg" group-title="BD Channel",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1 tvg-id="annd-tivi" tvg-name="আনন্দ টিভি" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/230.jpg" group-title="BD Channel",আনন্দ টিভি
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-id="movie-bangla-tv" tvg-name="Movie Bangla TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/235.jpg" group-title="Movie",Movie Bangla TV
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
+#EXTINF:-1 tvg-id="bangla-tv" tvg-name="Bangla Tv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/228.jpg" group-title="BD Channel",Bangla Tv
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="mohona-tv" tvg-name="Mohona TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/219.jpg" group-title="BD Channel",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+#EXTINF:-1 tvg-id="global-tv" tvg-name="Global Tv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/237.jpg" group-title="BD Channel",Global Tv
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1 tvg-id="nagrik-tivi" tvg-name="নাগরিক টিভি" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/215.jpg" group-title="BD Channel",নাগরিক টিভি
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="channel-s" tvg-name="Channel S" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/234.png" group-title="BD Channel",Channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/MdDO6mbiePo86IZyiKjKQGIz1CoUHwYaScyWSqZk.png" group-title="BD Channel",BTV
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8?e=1784102576&token=901c0ca2f1ba54041a543dce43641c12&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+#EXTINF:-1 tvg-id="channel-16" tvg-name="Channel 16" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/216.jpg" group-title="Music",Channel 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="g-series" tvg-name="G Series" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/217.jpg" group-title="BD Channel",G Series
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ayna-tivi" tvg-name="আয়না টিভি" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/220.jpg" group-title="BD Channel",আয়না টিভি
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="enter-tv" tvg-name="Enter TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/iEc0uZldcCkffSJQAmDQdVHxXLJXlnL74m3Gz2Qd.png" group-title="BD Channel",Enter TV
+https://live1.entertv.com.bd/entertv/index.m3u8
+#EXTINF:-1 tvg-id="me-tv" tvg-name="Me TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/sDXlhU6qoOjdkemGwucmIQJkS3oTUdf2jIo7q6Zq.jpg" group-title="Music",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-id="tv-2" tvg-name="ঠিকানা TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/uCAF0whx4bYIC3kf1HzAvNYuJS5AB7ixcNClWNFg.jpg" group-title="BD Channel",ঠিকানা TV
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="matribhumi-tv" tvg-name="Matribhumi TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/vUXWMij0PwqUSE3NDQDriqlH0HwC4RIEPBg0j3jk.jpg" group-title="BD Channel",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-id="bhi-tv" tvg-name="BHI TV" tvg-logo="" group-title="BD Channel",BHI TV
+https://server.livelegitpro.in/bhichannel/bhichannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="community-tv" tvg-name="Community TV" tvg-logo="" group-title="BD Channel",Community TV
+https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="jatv" tvg-name="JATV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/ipF1JQQduQBTmdPm1DbMmQbI7QwhEUVGitNMe71O.png" group-title="BD Channel",JATV
+https://dish.porosh.com.bd/hls/jtvnews.m3u8
+#EXTINF:-1 tvg-id="channel-52" tvg-name="Channel 52" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/o5SYyvHFfZVUlZusyFN4RjVxS6Whrcp0MKRwgTxU.jpg" group-title="BD Channel",Channel 52
+https://tvsen6.aynaott.com/channel52/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="duronto-tv" tvg-name="Duronto tv" tvg-logo="" group-title="BD Channel",Duronto tv
+https://livetv.shamon-cable.net/Duronto/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="duronto-tv" tvg-name="Duronto tv" tvg-logo="" group-title="BD Channel",Duronto tv
+http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="jago-news" tvg-name="Jago News" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/H3YaKTlyYjs7WZWLx6ihubpGawD2fTxgYu86huvV.jpg" group-title="BD Channel",Jago News
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv" tvg-name="জলসা বাংলা TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/EfV88PjgibepUNRY2zTumnEB50kjGK74m0A3du2k.webp" group-title="BD Channel",জলসা বাংলা TV
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1 tvg-id="srk-tv" tvg-name="SRK TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/yqUEcGM4Qk1pCggbmTmMi73kBONg05ntShhU4ska.jpg" group-title="BD Channel",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="islam-bangla" tvg-name="Islam Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/Za7ifNTQ1gCU9k2XXfpjrsnHLadby7jdcreMfQE3.jpg" group-title="BD Channel",Islam Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="time-television" tvg-name="Time Television" tvg-logo="" group-title="BD Channel",Time Television
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="star-news" tvg-name="Star News" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/231.jpg" group-title="BD Channel",Star News
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rajdhani-tv" tvg-name="Rajdhani TV" tvg-logo="" group-title="BD Channel",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-id="news21" tvg-name="NEWS21" tvg-logo="" group-title="BD Channel",NEWS21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="biswbangla-24" tvg-name="বিশ্ববাংলা 24" tvg-logo="" group-title="BD Channel",বিশ্ববাংলা 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="amar-bangla" tvg-name="Amar Bangla" tvg-logo="" group-title="BD Channel",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-3" tvg-name="সানন্দা TV" tvg-logo="" group-title="India",সানন্দা TV
+http://27.124.71.27/Sun_Bangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="star-jalsha" tvg-name="Star Jalsha" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/240.jpg" group-title="India",Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="zee" tvg-name="Zee বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/241.jpg" group-title="India",Zee বাংলা
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="zee" tvg-name="Zee বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/241.jpg" group-title="India",Zee বাংলা
+https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+#EXTINF:-1 tvg-id="colours" tvg-name="Colours বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/242.jpg" group-title="India",Colours বাংলা
+http://live.balajibroadband.com:3500/render.m3u8?auth=2SYaSyPWlKCfQwSrYivqKsuuF12mtQkQSjhuG7DMEzlj95Ygd807S0Ng6Nv5M68SQXHlQCNq86IHKzGGExKg977yJQzcqZDqcTtlVc6iMfWrkqunyMR3Z85ma4Qh_JTlqwDu5g7UuSGtVjMYYDoK9O5KgK2SrxzJ3HCH7_l9Z35pMGNiOFNftdiKZD5NKJkAfA1x4Zu5oULZkxn3WVRT-mOosA_PozdBQY2IV2tmqqyPW3QXHGEw08IeYmZJsRAW9bJCwm76HsmxBL-SaUy_lxFwdmNGWjNNk0tSD37gGbdpwbVsXGJxjQAuKUNqhlVSOxduVmz6iXsthcdTWXWN6qcRrYhCM5oXCPUaJ-9GL6cJ-zsPlqlJZ8hscsFt-rPZR-HZWrMK2DX-SIrkoJUjFc6vOjO1Y1au2twrezAuzxMtzRwFz-6KdwxRsQ==&channel_key_id=756
+#EXTINF:-1 tvg-id="colours" tvg-name="Colours বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/242.jpg" group-title="India",Colours বাংলা
+http://live.balajibroadband.com:3500/render.m3u8?auth=FEat7R52y8NLDwNTU2-9NdC0YtO_hJC15luSESa_aX58XC8gr_A_lhBfBnhPtBGy1HGAgWmj9GAzaOl64iCBByovlDUDC9Hd6nCQk4Q9OjrvkvtuTz9XNu0LQsxnezx_KsHRuudRrCRTdsyAU094GLsjacyItfM0u1qpQm1RCh1491pQq8Dix9HAKThRTBJ2-fgGxR0eDxZbdtNtNb8S_Fh0X4BKFK0cU9RDPzJdxK_fbVoUwlklPLL_pW1RbkJH1kdWL5h2N2C0Y09icRoVL1pg1yEk6LPA_6LI3VbR7lve5j-vtrgiX8lw2IImO3Akq4Cr3LVlY8dzA6GnCRiMDeR1EFpCUX0bfz9A3_etjPRK8vhfISSPuYTqR1RIjXkkW7kWYmlETXgasY-gODs_pMMpq_7iFsfpOKMhyhRr7A5w4A43NTyxcxKOmQ==&channel_key_id=756
+#EXTINF:-1 tvg-id="colours" tvg-name="Colours বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/242.jpg" group-title="India",Colours বাংলা
+http://live.balajibroadband.com:3500/render.m3u8?auth=jBzymPK5H7H8CBVi81ft9kG7k0twaTuMMfFkQC7CCSYj92FE9e3EY8396t3LfTvgy-DOXZtwgi9N1pGe-87uJUIR4JaY93DsZHa0eAdy-U1geti7RLmEfeiQvUukpgGTtQiDmR8kmhxBc7bY4BdxAc9VZMZmSR1ogjnM1jNoZU12ZMYVRYxS1sJ8Wj3lj8P37gJ_JYgJ-9OLn7ezzq9OAzMPkUxVylEk_O2zg5wthfumUJ_D-rvwNEDk06sfHJMkPBnDUK9j_uRBX19f8n3c1PkG0m_9xpPl7ELVxnP65xXrEb_-o-eLZdvgdPIwVrtXs0WMqctuaz5ETlcx5t46jl0t1qX-nxbH4WHe0WUtK8YSVTLe2DMlz8t-fdyEWiEdpye_J-RnxRO6wb-SUc56H-iRhP6QPHQmPZEDw9g9uuCu_RvVAJK-qZCx3Q==&channel_key_id=756
+#EXTINF:-1 tvg-id="sony" tvg-name="Sony আট" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/243.png" group-title="India",Sony আট
+https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fhdntl%3Dexp%3D1794524413~acl%3D%252f%2A~id%3Dffb23226-e432-4c2d-8747-2f6cd109aed1~data%3Dhdntl~hmac%3D29e61775e28819f330e18c5d093601b942b1135d967ebae1fc9783978c2a9098%2Fmaster_3500.m3u8%3Faka_me_session_id%3DAAAAAAAAAAD9RPZqAAAAAE2LZCdL53hRfnPsoiDk1khU%2B3xseYudwGgK81DnXlujVT4CKD%252f757r31kpWZU6newYTkh4IdgSz%26aka_media_format_type%3Dhls
+#EXTINF:-1 tvg-id="enter-10-bangla" tvg-name="Enter 10 বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/244.jpg" group-title="India",Enter 10 বাংলা
+https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
+#EXTINF:-1 tvg-id="sun-bangla" tvg-name="Sun Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/QMYnlWc7ffiNRG7txjXa7JYvwdGiprIJakiNlMcs.jpg" group-title="India",Sun Bangla
+https://ireentv.pages.dev/Sun_Bangla_Server_1.m3u8
+#EXTINF:-1 tvg-id="sun-bangla" tvg-name="Sun Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/QMYnlWc7ffiNRG7txjXa7JYvwdGiprIJakiNlMcs.jpg" group-title="India",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="jlsa-movies" tvg-name="জলসা Movies" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/246.jpg" group-title="India",জলসা Movies
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="movies-hd" tvg-name="জলসা Movies HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/247.jpg" group-title="Movie",জলসা Movies HD
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="bangla-plas" tvg-name="বাংলা প্লাস" tvg-logo="" group-title="India",বাংলা প্লাস
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="colors" tvg-name="Colors বাংলা সিনেমা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/248.jpg" group-title="Movie",Colors বাংলা সিনেমা
+http://live.balajibroadband.com:3500/live/1657.m3u8
+#EXTINF:-1 tvg-id="colors" tvg-name="Colors বাংলা সিনেমা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/248.jpg" group-title="Movie",Colors বাংলা সিনেমা
+http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="z-banglasonar" tvg-name="Z বাংলাসোনার" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/249.jpg" group-title="India",Z বাংলাসোনার
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-id="akas-8" tvg-name="আকাশ ৮" tvg-logo="" group-title="India",আকাশ ৮
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="india-today" tvg-name="India Today" tvg-logo="" group-title="India",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="republic-bangla" tvg-name="Republic Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/251.webp" group-title="India",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+#EXTINF:-1 tvg-id="tv9-bangla" tvg-name="Tv9 Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/252.jpg" group-title="India",Tv9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="news18-bangla-news" tvg-name="News18 Bangla News" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/253.jpg" group-title="India",News18 Bangla News
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="a-sports-hd" tvg-name="A Sports HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/254.png" group-title="Sports",A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 tvg-id="t-sports" tvg-name="T SPORTS" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/255.jpg" group-title="Sports",T SPORTS
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="laliga-hd" tvg-name="Laliga HD" tvg-logo="" group-title="Sports",Laliga HD
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="ptv-sports" tvg-name="PTV Sports" tvg-logo="" group-title="Sports",PTV Sports
+http://103.114.11.37:8081/PTV/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="eurosports" tvg-name="EUROSPORTS" tvg-logo="" group-title="Sports",EUROSPORTS
+http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="ten-sports" tvg-name="Ten Sports" tvg-logo="" group-title="Sports",Ten Sports
+https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8
+#EXTINF:-1 tvg-id="ten-cricket" tvg-name="TEN CRICKET" tvg-logo="" group-title="Sports",TEN CRICKET
+https://tinyurl.com/4yp92s8y
+#EXTINF:-1 tvg-id="ten-cricket" tvg-name="TEN CRICKET" tvg-logo="" group-title="Sports",TEN CRICKET
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="willow-sports" tvg-name="Willow sports" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/261.jpg" group-title="Sports",Willow sports
+https://go.skym3u.dev/live/7faa3b/01d3d995f93d1ee2864744b52b731827da619a24870339011919cc3b8c559aff1687ab47cee599005df3b3f24226b864b237fcfe16975281a7a3e93b93a2f828ffca5b17f2fc456f0ee7b086996919ba32fa3fa4a47174e8.m3u8?s=8edb39&id=xpmp.m3u
+#EXTINF:-1 tvg-id="willow-sports" tvg-name="Willow sports" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/261.jpg" group-title="Sports",Willow sports
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 tvg-id="wwe" tvg-name="WWE" tvg-logo="" group-title="Sports",WWE
+http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="star-sports-1hd" tvg-name="STAR SPORTS 1HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/263.jpg" group-title="Sports",STAR SPORTS 1HD
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="star-sports-3" tvg-name="Star Sports 3" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/264.jpg" group-title="Sports",Star Sports 3
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="star-sports-select-1-hd" tvg-name="Star Sports Select 1 HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/265.jpg" group-title="Sports",Star Sports Select 1 HD
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="star-sports-select-2hd" tvg-name="Star Sports Select 2HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/266.webp" group-title="Sports",Star Sports Select 2HD
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="espn-2" tvg-name="ESPN 2" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/267.png" group-title="Sports",ESPN 2
+https://tvsen7.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="espn-3" tvg-name="ESPN 3" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/268.jpg" group-title="Sports",ESPN 3
+https://go.skym3u.dev/live/7faa3b/b38ba0cb7cfb7642a9f01be1dbccb5cde0b5c37ed48b2568174d29a41d44afef98fd00d530e05ea40eb193ddda79749a51bc4ffb227272973a03327fdbfeb677ddde712e4595.m3u8?s=8edb39&id=xpmp.m3u
+#EXTINF:-1 tvg-id="sony-sports-1" tvg-name="Sony Sports 1" tvg-logo="" group-title="Sports",Sony Sports 1
+https://bdix.ottking.top:8082/sony_sports_1_hd/video.m3u8?token=utz1v_KEcYcgM3
+#EXTINF:-1 tvg-id="sony-sports-2" tvg-name="Sony Sports 2" tvg-logo="" group-title="Sports",Sony Sports 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="sony-sports-ten-5" tvg-name="Sony Sports Ten 5" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/271.webp" group-title="Sports",Sony Sports Ten 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="discovery-bangla" tvg-name="Discovery Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/272.jpg" group-title="Documentary",Discovery Bangla
+https://stream.ottplus.live/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="history-tv" tvg-name="History Tv" tvg-logo="" group-title="Documentary",History Tv
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/274.jpg" group-title="Documentary",National Geographic
+http://103.135.253.32:8080/NATGEO-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="travelxp-bangla" tvg-name="TravelXP Bangla" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/275.jpg" group-title="Documentary",TravelXP Bangla
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="nat-geo-hd" tvg-name="NAT GEO HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/276.jpg" group-title="Documentary",NAT GEO HD
+http://tvlink.top/live/MAG1J99LK5/cposjTfgAh/44281.ts
+#EXTINF:-1 tvg-id="advancer-earth" tvg-name="Advancer Earth" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/277.jpg" group-title="Documentary",Advancer Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="" group-title="Documentary",TLC
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/36.ts
+#EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/279.jpg" group-title="Documentary",Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8?nimblesessionid=225302146
+#EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/280.jpg" group-title="India",Colors HD
+http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="starplus-hd" tvg-name="StarPlus HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/281.webp" group-title="India",StarPlus HD
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="star-gold-hd" tvg-name="Star Gold HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/282.jpg" group-title="Movie",Star Gold HD
+http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="star-gold-select-hd" tvg-name="Star Gold Select HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/283.jpg" group-title="Movie",Star Gold Select HD
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="SONY MAX HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/284.jpg" group-title="Movie",SONY MAX HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
+#EXTINF:-1 tvg-id="sony-max" tvg-name="SONY MAX" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/285.jpg" group-title="India",SONY MAX
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8?nimblesessionid=180417075
+#EXTINF:-1 tvg-id="z-chenema" tvg-name="Z Chenema" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/286.jpg" group-title="Movie",Z Chenema
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="hindi-movie" tvg-name="Hindi Movie" tvg-logo="" group-title="Movie",Hindi Movie
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-id="star-pravah" tvg-name="Star Pravah" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/XFiJDTg6H3pEfIDTjEnrdFYeTvgMsiu4zn4CMCaN.png" group-title="Others",Star Pravah
+https://go.skym3u.dev/live/7faa3b/0516398cc8ad6b13a58700c5f7ebf0ef16506ca76e6885830f931acb15a08d86bf9a16e75b58334d502d75075ef32ce9752bef8a812cffeb51f155b502cb8e8a9c255f0e40c09bdb258788d818385c66a60312116fd5aaa0c187d538dd1eb5c07c6c89e28c990613c3b06ee90fba4c1dcfc9eb4b757f.m3u8?s=8edb39&id=xpmp.m3u
+#EXTINF:-1 tvg-id="b4u-movies" tvg-name="B4U MOVIES" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/288.jpg" group-title="Movie",B4U MOVIES
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-id="b4u-kadak" tvg-name="B4U Kadak" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/289.jpg" group-title="Movie",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-id="pictures-hd" tvg-name="&Pictures HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/290.jpg" group-title="Movie",&Pictures HD
+https://bdix.ottking.top:8082/PICTURS-HD/video.m3u8?token=utz1v_KEcYcgM3
+#EXTINF:-1 tvg-id="goldmines-movies" tvg-name="Goldmines Movies" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/291.jpg" group-title="Movie",Goldmines Movies
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="star-bharat" tvg-name="Star Bharat" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/292.jpg" group-title="India",Star Bharat
+https://bdix.ottking.top:8082/Star-Bharat/video.m3u8?token=utz1v_KEcYcgM3
+#EXTINF:-1 tvg-id="big-magic" tvg-name="BIG MAGIC" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/293.png" group-title="India",BIG MAGIC
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-id="mtv-hd" tvg-name="MTV HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/294.jpg" group-title="India",MTV HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-name="Sony Entertainment HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/295.jpg" group-title="India",Sony Entertainment HD
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="hum-tv" tvg-name="Hum TV" tvg-logo="" group-title="India",Hum TV
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony SAB" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/297.jpg" group-title="India",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="star-movies-select-hd" tvg-name="Star Movies Select HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/298.jpg" group-title="Movie",Star Movies Select HD
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/299.png" group-title="Movie",Cinemax
+http://Vpsbd.cloudbd.one/newr/MNX.HD.m3u8
+#EXTINF:-1 tvg-id="star-movies" tvg-name="STAR MOVIES" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/300.jpg" group-title="Movie",STAR MOVIES
+http://172.19.17.139:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-id="movies-now-hd" tvg-name="MOVIES NOW HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/301.jpg" group-title="Movie",MOVIES NOW HD
+https://bdix.ottking.top:8082/MOVIES-NOW-HD/video.m3u8?token=utz1v_KEcYcgM3
+#EXTINF:-1 tvg-id="hbo-movie" tvg-name="HBO MOVIE" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/302.jpg" group-title="Movie",HBO MOVIE
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/303.png" group-title="Movie",Sony PIX HD
+https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="horror-tv" tvg-name="Horror Tv" tvg-logo="" group-title="Movie",Horror Tv
+https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-id="my-time-english" tvg-name="My Time English" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/305.png" group-title="India",My Time English
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="madina-live" tvg-name="Madina live" tvg-logo="" group-title="Islamic TV",Madina live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
+#EXTINF:-1 tvg-id="islamic-tv" tvg-name="Islamic Tv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/307.jpg" group-title="Islamic TV",Islamic Tv
+https://stream.ottplus.bd/live/islamic_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="islamic-tv" tvg-name="Islamic Tv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/307.jpg" group-title="Islamic TV",Islamic Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
+#EXTINF:-1 tvg-id="sunnah-tv" tvg-name="Sunnah Tv" tvg-logo="" group-title="Islamic TV",Sunnah Tv
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+#EXTINF:-1 tvg-id="peace-tv-bangla" tvg-name="Peace TV বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/309.jpg" group-title="Islamic TV",Peace TV বাংলা
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="azan-tv" tvg-name="Azan TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/310.jpg" group-title="Islamic TV",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-id="atn-music" tvg-name="ATN Music" tvg-logo="" group-title="Music",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="snggeet-bangla" tvg-name="সংগীত বাংলা" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/312.jpg" group-title="Music",সংগীত বাংলা
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="bengali-beats" tvg-name="BENGALI BEATS" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/313.png" group-title="Music",BENGALI BEATS
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="9xm" tvg-name="9XM" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/314.png" group-title="Music",9XM
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+#EXTINF:-1 tvg-id="9x-jalwa-music" tvg-name="9X JALWA MUSIC" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/315.png" group-title="Music",9X JALWA MUSIC
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9x-tashan" tvg-name="9X TASHAN" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/316.jpg" group-title="Music",9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/HD1080/HD1080.m3u8
+#EXTINF:-1 tvg-id="e24-music" tvg-name="e24 Music" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/317.jpg" group-title="Music",e24 Music
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-id="ptc-music" tvg-name="PTC Music" tvg-logo="" group-title="Music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="zoom-music" tvg-name="ZOOM MUSIC" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/319.jpg" group-title="Music",ZOOM MUSIC
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="biz-music" tvg-name="Biz Music" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/320.jpg" group-title="Music",Biz Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="yrf-music" tvg-name="yrf Music" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/321.jpg" group-title="Music",yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="b4u-music" tvg-name="B4U Music" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/322.jpg" group-title="Music",B4U Music
+https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
+#EXTINF:-1 tvg-id="party-universe" tvg-name="Party Universe" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/323.jpg" group-title="Music",Party Universe
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="bhojopuri-music" tvg-name="Bhojopuri Music" tvg-logo="" group-title="Music",Bhojopuri Music
+https://bdix.ottking.top:8082/Sangeet-Bhojpuri/video.m3u8?token=utz1v_KEcYcgM3
+#EXTINF:-1 tvg-id="music-india" tvg-name="Music India" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/325.png" group-title="Music",Music India
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+#EXTINF:-1 tvg-id="cartoon-toom-jery" tvg-name="Cartoon Toom & Jery" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/326.png" group-title="Cartoon",Cartoon Toom & Jery
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Channel" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/327.jpg" group-title="Cartoon",Disney Channel
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8#skym3u.dev
+#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/328.jpg" group-title="Cartoon",Discovery Kids
+https://stream.ottplus.live/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
+#EXTINF:-1 tvg-id="zb-cartoon" tvg-name="ZB Cartoon" tvg-logo="" group-title="Cartoon",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id="cn-cartoon" tvg-name="CN  Cartoon" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/330.jpg" group-title="Cartoon",CN  Cartoon
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="pogo" tvg-name="POGO" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/331.jpg" group-title="Cartoon",POGO
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="hungama" tvg-name="Hungama" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/332.webp" group-title="Cartoon",Hungama
+http://dvltv.cc/live/DVL9753638/9413579376/535.ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NICK JR" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/333.jpg" group-title="Cartoon",NICK JR
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rongeen-tv" tvg-name="rongeen tv" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/334.png" group-title="Cartoon",rongeen tv
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="jungle-book" tvg-name="Jungle Book" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/335.jpg" group-title="Cartoon",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="sony-yay" tvg-name="SONY YAY" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/336.jpg" group-title="Cartoon",SONY YAY
+https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
+#EXTINF:-1 tvg-id="tiny-pop" tvg-name="Tiny PoP" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/337.jpg" group-title="Cartoon",Tiny PoP
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
+#EXTINF:-1 tvg-id="gopal-bhar" tvg-name="Gopal Bhar" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/338.jpg" group-title="Cartoon",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-id="nick-bangla" tvg-name="NICK Bangla" tvg-logo="" group-title="Cartoon",NICK Bangla
+http://103.135.253.32:8080/NICK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="english-music" tvg-name="English Music" tvg-logo="" group-title="Music",English Music
+https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
+#EXTINF:-1 tvg-id="starrtt" tvg-name="Starrtt" tvg-logo="" group-title="Movie",Starrtt
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="mtvvv" tvg-name="Mtvvv" tvg-logo="" group-title="India",Mtvvv
+http://tvlink.top/live/MAG1J99LK5/cposjTfgAh/1125003.ts
+#EXTINF:-1 tvg-id="picture" tvg-name="& Picture" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/344.jpg" group-title="India",& Picture
+http://103.135.253.32:8080/PICTURE-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="moon-tv-2" tvg-name="Moon tv" tvg-logo="" group-title="India",Moon tv
+http://115.187.41.216:8080/hls/montvbangla/2_1/index.m3u8
+#EXTINF:-1 tvg-id="moon-tv" tvg-name="Moon tv" tvg-logo="" group-title="India",Moon tv
+http://115.187.41.216:8080/hls/montvbangla/2_1/index.m3u8
+#EXTINF:-1 tvg-id="nexus-tv" tvg-name="NEXUS TV" tvg-logo="https://bongo.rayenda.com/storage/channel-logos/rtuqBi3fdsGhkidls3O25RRyMsySer1FtgAnvCjG.png" group-title="BD Channel",NEXUS TV
+https://go.skym3u.dev/live/7faa3b/7248a011b1eb4cf472dbfa9e7e148f2dab60e4c5f281554f5b8a024f90531453dd9f5a043792f68f5b51cb45c6c3ced875f4bafb79a0d9630e42350dee0cdf91081f09c880f784e3c96b.m3u8?s=8edb39&id=xpmp.m3u
